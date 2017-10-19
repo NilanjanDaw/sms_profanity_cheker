@@ -11,6 +11,11 @@ To install them run this command
  ### To run the application
   > python gui.py
 
+#### Profanity check
+Profanity check is done using HTTP request using request library in python
+> http://www.wdylike.appspot.com?q=<your-word>
+Suppose *home* is the word u want to check
+>http://www.wdylike.appspot.com?q=home
 
 [link]: <http://www.wdylike.appspot.com/>
-[Twilio]: <https://github.com/joemccann/dillinger>
+[Twilio]: <https://www.twilio.com/>
